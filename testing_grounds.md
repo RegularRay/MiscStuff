@@ -2,4 +2,4 @@
 
 | Name | Link |
 | --- | --- |
-| Test | google.com |
+| Test | https://www.google.com |
