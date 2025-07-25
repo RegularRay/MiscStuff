@@ -1,2 +1,3 @@
 | Name | Link |
-| test | https://www.google.com |
+| --- | --- |
+| Test | google.com |
